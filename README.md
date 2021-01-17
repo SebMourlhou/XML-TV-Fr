@@ -2,13 +2,6 @@
 
 XML TV Fr est un service permettant de récupérer un guide des programmes au format XMLTV.
 
-## Ce fork contient les fichiers XML de sortie
-
-Les fichiers de sorties XML sont mis à jour tous les jours vers 6h15 et sont stockés dans le dossier xmltv :
- - au format XML : [xmltv.xml](https://github.com/SebMourlhou/XML-TV-Fr/raw/master/xmltv/xmltv.xml)
- - au format GZ : [xmltv.xml.gz](https://github.com/SebMourlhou/XML-TV-Fr/raw/master/xmltv/xmltv.xml.gz)
- - au format ZIP : [xmltv.zip](https://github.com/SebMourlhou/XML-TV-Fr/raw/master/xmltv/xmltv.zip)
-
 # Prérequis
 
 PHP >=5.4 avec les extensions
